@@ -93,6 +93,3 @@ Estas são **hipóteses prioritárias para investigação pelo coaching staff**,
 ## Próximos Passos
 
 - [x] ~~Segmentar análise por **posição** (sup/jng/mid) para direcionar recomendações ao role correto~~ — **Feito:** coluna `position` adicionada. Resultado: 2 junglers (Zyra, Nidalee) + 1 suporte (Renata Glasc)
-- [ ] Filtrar por **patches recentes** para capturar meta atual
-- [ ] Investigar **WR destes campeões por liga** (LCK, LEC, LPL isoladamente)
-- [ ] Analisar **matchups** favoráveis e desfavoráveis de cada campeão
